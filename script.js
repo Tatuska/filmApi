@@ -27,7 +27,7 @@
 });*/
 
 $(document).ready(function() {
-    var url = 'https://api.themoviedb.org/3/',
+    var url = 'http://api.themoviedb.org/3/',
         mode = 'search/movie?query=',
         input,
         movieName,
